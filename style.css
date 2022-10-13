@@ -6,7 +6,8 @@
 .isi p {
     text-align: justify;
     margin: 20px;
-    color: black;
+    color: white;
+    background-colour: black;
 }
 
 .kiri {
