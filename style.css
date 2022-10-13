@@ -4,10 +4,10 @@
 }
 
 .isi p {
-    background-colour: #000000;
     text-align: justify;
     margin: 20px;
     color: #FFFFFF;
+    background-colour: #000000;
 }
 
 .kiri {
